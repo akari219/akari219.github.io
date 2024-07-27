@@ -8,3 +8,6 @@ layout: home
 # ソフトウェア工学 2024
 
 git/github演習
+
+以下のページに，GitHubで学んだことをまとめる． \
+[説明ページ](/docs/git-memo)
