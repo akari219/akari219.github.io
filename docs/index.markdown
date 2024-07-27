@@ -10,4 +10,4 @@ layout: home
 git/github演習
 
 以下のページに，GitHubで学んだことをまとめる． \
-[説明ページ](gitmemo.md)
+[説明ページ](/docs/git-memo)
